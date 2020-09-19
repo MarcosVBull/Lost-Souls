@@ -1,0 +1,50 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2017-12-30 18:46:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "undergarden": "2018-01-04 19:41:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-01-01 17:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2017-12-30 18:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie_pigman": "2018-01-01 17:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_pigman": "2018-01-01 17:21:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2017-12-30 18:46:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/tools/flower_basket": {
+    "criteria": {
+      "has_lots_of_items": "2017-12-30 19:10:14 +0000"
+    },
+    "done": true
+  }
+}
